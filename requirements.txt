@@ -1,4 +1,4 @@
-﻿alembic==1.18.4
+alembic==1.18.4
 altair==6.0.0
 annotated-types==0.7.0
 asgiref==3.11.1
@@ -36,6 +36,7 @@ googleapis-common-protos==1.73.0
 greenlet==3.3.2
 grpcio==1.78.0
 grpcio-status==1.71.2
+gunicorn==21.2.0
 h11==0.16.0
 httplib2==0.31.2
 idna==3.11
